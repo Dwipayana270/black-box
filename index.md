@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Blackbox Testing website belajarscratch.cf
 
-You can use the [editor on GitHub](https://github.com/Dwipayana270/black-box/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Blackbox Testing merupakan pengujian tiap-tiap komponen dari website. Pada website belajarscratch.cf akan dalam tampilan mobile dan desktop.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Paduan:
 
-### Markdown
+Klik - [x] saat komponen berfungsi dengan baik
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Biarkan (- [ ]) saat komponen tidak berfungsi
 
-```markdown
-Syntax highlighted code block
+**Header**
 
-# Header 1
-## Header 2
-### Header 3
+| Komponen             | Mobile | Desktop |
+| -------------------- | ------ | ------- |
+| Hamburger menu       | - [ ]  | - [ ]   |
+| Drop down menu       | - [ ]  | - [ ]   |
+| Light mode/Dark mode | - [ ]  | - [ ]   |
 
-- Bulleted
-- List
+**Footer**
 
-1. Numbered
-2. List
+| Komponen            | Mobile | Desktop |
+| ------------------- | ------ | ------- |
+| Quick access button | - [ ]  | - [ ]   |
 
-**Bold** and _Italic_ and `Code` text
+**Beranda**
 
-[Link](url) and ![Image](src)
-```
+| Komponen | Mobile | Desktop |
+| -------- | ------ | ------- |
+| button   | - [ ]  | - [ ]   |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**/course**
 
-### Jekyll Themes
+| Komponen  | Mobile | Desktop |
+| --------- | ------ | ------- |
+| button    | - [ ]  | - [ ]   |
+| Drop down | - [ ]  | - [ ]   |
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dwipayana270/black-box/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Page 1: Menjadi Coder yang Hebat **
 
-### Support or Contact
+| Komponen  | Mobile | Desktop |
+| --------- | ------ | ------- |
+| Link      | - [ ]  | - [ ]   |
+| Drop down | - [ ]  | - [ ]   |
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Page 2: Pengenalan Scratch**
+
+| Komponen  | Mobile | Desktop |
+| --------- | ------ | ------- |
+| Link      | - [ ]  | - [ ]   |
+| Drop down | - [ ]  | - [ ]   |
+
+**Page 3: Konsep Dasar Coding **
+
+| Komponen  | Mobile | Desktop |
+| --------- | ------ | ------- |
+| Link      | - [ ]  | - [ ]   |
+| Drop down | - [ ]  | - [ ]   |
+
+**Page 4: Do it Yourself **
+
+| Komponen  | Mobile | Desktop |
+| --------- | ------ | ------- |
+| Link      | - [ ]  | - [ ]   |
+| Drop down | - [ ]  | - [ ]   |
+
